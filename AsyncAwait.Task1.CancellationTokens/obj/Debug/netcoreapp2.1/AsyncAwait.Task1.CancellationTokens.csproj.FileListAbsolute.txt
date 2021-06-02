@@ -1,0 +1,11 @@
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.runtimeconfig.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.runtimeconfig.dev.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\bin\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\AsyncAwait\AsyncAwait.Task1.CancellationTokens\obj\Debug\netcoreapp2.1\AsyncAwait.Task1.CancellationTokens.pdb
