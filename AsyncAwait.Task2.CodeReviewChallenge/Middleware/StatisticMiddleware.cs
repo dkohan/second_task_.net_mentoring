@@ -25,13 +25,18 @@ namespace AsyncAwait.Task2.CodeReviewChallenge.Middleware
 
             await Task.Run(() => _statisticService.RegisterVisitAsync(path));
 
+            var visitorsCount = await _statisticService.GetVisitsCountAsync(path);
 
-            context.Response.Headers.Add(
-                CustomHttpHeaders.TotalPageVisits,
-                _statisticService.GetVisitsCountAsync(path).GetAwaiter().GetResult().ToString());
+            await UpdateHeadersAsync();
 
+            async Task UpdateHeadersAsync()
+            {
+                var count = await _statisticService.GetVisitsCountAsync(path);
+                context.Response.Headers.Add(
+                    CustomHttpHeaders.TotalPageVisits,
+                    count.ToString());
+            }
 
-            Thread.Sleep(3000); // without this the statistic counter does not work
             await _next(context);
         }
     }

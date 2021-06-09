@@ -25,7 +25,7 @@ namespace AsyncAwait.Task2.CodeReviewChallenge.Controllers
             return View();
         }
 
-        public async Task<ActionResult> PrivacyAsync()
+        public async Task<ActionResult> Privacy()
         {
             ViewBag.Message = await _privacyDataService.GetPrivacyDataAsync();
             return View();

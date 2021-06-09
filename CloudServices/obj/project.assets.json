@@ -696,11 +696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dzmitriy_Kakhanouski\\Desktop\\.net d3 mentoring\\AsyncAwait\\CloudServices\\CloudServices.csproj",
+      "projectUniqueName": "C:\\Users\\Dzmitriy_Kakhanouski\\Desktop\\.net mentoring\\Tasks for mentoring\\AsyncAwait\\CloudServices\\CloudServices.csproj",
       "projectName": "CloudServices",
-      "projectPath": "C:\\Users\\Dzmitriy_Kakhanouski\\Desktop\\.net d3 mentoring\\AsyncAwait\\CloudServices\\CloudServices.csproj",
+      "projectPath": "C:\\Users\\Dzmitriy_Kakhanouski\\Desktop\\.net mentoring\\Tasks for mentoring\\AsyncAwait\\CloudServices\\CloudServices.csproj",
       "packagesPath": "C:\\Users\\Dzmitriy_Kakhanouski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dzmitriy_Kakhanouski\\Desktop\\.net d3 mentoring\\AsyncAwait\\CloudServices\\obj\\",
+      "outputPath": "C:\\Users\\Dzmitriy_Kakhanouski\\Desktop\\.net mentoring\\Tasks for mentoring\\AsyncAwait\\CloudServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

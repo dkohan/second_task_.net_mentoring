@@ -31,3 +31,36 @@ C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\AsyncAwait.Ta
 C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.csproj.CopyComplete
 C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.dll
 C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.runtimeconfig.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.runtimeconfig.dev.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.Views.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.Views.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\CloudServices.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\bin\Debug\netcoreapp2.1\CloudServices.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.csprojAssemblyReference.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.RazorAssemblyInfo.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.RazorAssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.TagHelpers.input.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.TagHelpers.output.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.RazorCoreGenerate.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Help.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.RazorTargetAssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.Views.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.csproj.CopyComplete
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\AsyncAwait.Task2.CodeReviewChallenge\obj\Debug\netcoreapp2.1\AsyncAwait.Task2.CodeReviewChallenge.pdb

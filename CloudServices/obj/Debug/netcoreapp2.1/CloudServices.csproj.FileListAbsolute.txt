@@ -7,3 +7,11 @@ C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\CloudServices
 C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.AssemblyInfo.cs
 C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.dll
 C:\Users\Dzmitriy_Kakhanouski\Desktop\.net d3 mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\bin\Debug\netcoreapp2.1\CloudServices.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\bin\Debug\netcoreapp2.1\CloudServices.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\bin\Debug\netcoreapp2.1\CloudServices.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\.net mentoring\Tasks for mentoring\AsyncAwait\CloudServices\obj\Debug\netcoreapp2.1\CloudServices.pdb

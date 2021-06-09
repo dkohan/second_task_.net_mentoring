@@ -67,7 +67,7 @@ namespace AsyncAwait.Task1.CancellationTokens
 
         private static async void CalculateSum(int n)
         {
-            if(task.Status.Equals(TaskStatus.Running))
+            if(task!= null && task.Status.Equals(TaskStatus.Running))
             {
                 _tokenSource.Cancel();
                 ResetCancellationToken();
